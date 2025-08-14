@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(142, 142, 142);
+}
+img{
+    border-radius: 40%;
+    margin-left: 14%;
+    margin-top: 5%;
+    
+}
+
+#Area_foto{
+width: 20%;
+height: 320px;
+background-color: rgb(214, 159, 87);
+float: left;
+margin-right: 0.5%;
+}
+#AF_texto{
+    margin-left: 5px;
+    text-align: center;
+    font-size: 110%;
+}
+
+#nome_e_contatos{
+width: 79.5%;
+height: 320px;
+background-color: rgb(214, 159, 87);
+float: left;
+text-align: center;
+font-size: 150%;
+}
+#NC_titulo{
+margin-left: 4%;
+margin-bottom: -1%;
+}
+#NC_subtitulo{
+margin-left: 5%;
+}
+#NC_contatos{
+    margin-top: 5%;
+    list-style-type: none;
+}
+
+section{
+width: 69.5%;
+height: 360px;
+background-color: rgb(214, 159, 87);
+float: right;
+margin-top: 0.5%;
+}
+p{
+margin-left: 5%;
+text-align: center;
+}
+h4{
+margin-left: 5%;
+text-align: center;
+
+}
+
+aside{
+width: 30%;
+height: 360px;
+background-color: rgb(214, 159, 87) ;
+float: left;
+margin-right: 0.5%;
+margin-top: 0.5%;
+}
+.linguas{
+    margin-left: 5%;
+}
+.Habilidades{
+    margin-left: 5%;
+}
